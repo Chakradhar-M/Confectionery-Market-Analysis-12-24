@@ -40,3 +40,76 @@ The main aim of this report is to support company researchers by creating an int
 📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
 
 ---
+
+###  📊 Sample Raw Data
+
+<div style="overflow-x:auto;">
+
+<table>
+  <thead>
+    <tr>
+      <th>YEAR</th>
+      <th>MONTH</th>
+      <th>DISTRIBUTION&nbsp;CHANNEL</th>
+      <th>ITEM&nbsp;ID</th>
+      <th>ITEM</th>
+      <th>CATEGORY</th>
+      <th>BRAND</th>
+      <th>PRODUCT&nbsp;TYPE</th>
+      <th>PACKAGE&nbsp;TYPE</th>
+      <th>SALES&nbsp;VOLUME&nbsp;IN&nbsp;KG</th>
+      <th>SALES&nbsp;VOLUME&nbsp;IN&nbsp;EUR</th>
+      <th>MANUFACTURER</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2023</td>
+      <td>April</td>
+      <td>SMALL&nbsp;AND&nbsp;SPECIALTY&nbsp;STORES</td>
+      <td>1</td>
+      <td>CHIP&nbsp;&amp;&nbsp;DIP&nbsp;PULLED&nbsp;PORK</td>
+      <td>CHIPS&nbsp;AND&nbsp;SNACKS</td>
+      <td>LAND&nbsp;CORP.</td>
+      <td>CHIPS</td>
+      <td>BAG</td>
+      <td>10</td>
+      <td>10.00&nbsp;€</td>
+      <td>ROYAL&nbsp;BLENDS&nbsp;GROUP</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>April</td>
+      <td>SMALL&nbsp;AND&nbsp;SPECIALTY&nbsp;STORES</td>
+      <td>1</td>
+      <td>CHIP&nbsp;&amp;&nbsp;DIP&nbsp;PULLED&nbsp;PORK</td>
+      <td>CHIPS&nbsp;AND&nbsp;SNACKS</td>
+      <td>LAND&nbsp;CORP.</td>
+      <td>CHIPS</td>
+      <td>BAG</td>
+      <td>10</td>
+      <td>10.00&nbsp;€</td>
+      <td>ROYAL&nbsp;BLENDS&nbsp;GROUP</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>April</td>
+      <td>SUPERMARKET&nbsp;CHAINS</td>
+      <td>1</td>
+      <td>CHIP&nbsp;&amp;&nbsp;DIP&nbsp;PULLED&nbsp;PORK</td>
+      <td>CHIPS&nbsp;AND&nbsp;SNACKS</td>
+      <td>LAND&nbsp;CORP.</td>
+      <td>CHIPS</td>
+      <td>BAG</td>
+      <td>10</td>
+      <td>10.00&nbsp;€</td>
+      <td>ROYAL&nbsp;BLENDS&nbsp;GROUP</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Confectionery-Market-Analysis-12-24/blob/main/dataset/data_dictionary.md)
+
+---
