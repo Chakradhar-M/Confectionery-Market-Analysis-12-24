@@ -1,3 +1,29 @@
-# Project Documentation
+<h1 align="center">🍬 Confectionery Market Analysis</h1>
 
-Describe your project details here.
+<div style="display: flex; justify-content: space-between; padding: 10px; background-color: #f4f4f4; border-radius: 8px;">
+  <h4>📅 Date: Dec 2024</h4>
+  <h4>🛠️ Tools Used: Power BI, Excel, Figma</h4>
+  <h4>🏷️ Domain: FMCG / Market Research Analytics</h4>
+</div>
+
+---
+
+### 📌 Background
+
+The confectionery industry in Europe is both highly competitive and dynamic. From chocolate bars to chewing gum and fruity candies, consumer preferences continue to evolve, influenced by seasonality, packaging innovations, and brand loyalty. Market research companies play a crucial role in helping manufacturers understand these shifting trends to stay ahead of the curve.
+
+This project is based on a dataset provided by a European market research firm that specializes in the **confectionery sector**. The data includes sales performance across different candy brands, packaging types, and distribution channels over the years 2022 and 2023. This presents a great opportunity to explore the competitive landscape, highlight top-selling products, and uncover what drives candy consumption in the region.
+
+---
+
+### 🎯 Objective
+
+The main aim of this report is to support company researchers by creating an interactive Power BI dashboard that:
+
+✔️ Identifies top-selling candy items by both volume (weight) and value (€)  
+✔️ Analyzes monthly sales trends across two years  
+✔️ Compares performance of different manufacturers, brands, and packaging types  
+✔️ Highlights the most profitable candy categories and distribution channels  
+✔️ Helps uncover hidden patterns to support future product and marketing strategies
+
+---
