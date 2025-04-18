@@ -113,3 +113,14 @@ The main aim of this report is to support company researchers by creating an int
 🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Confectionery-Market-Analysis-12-24/blob/main/dataset/data_dictionary.md)
 
 ---
+
+### 📊 **Key Performance Indicators (KPIs)** 
+1️⃣ **Total Quantity Sold (kg)**
+
+Represents the total volume of candies sold in kilograms over a given period. This KPI helps track product demand and consumption trends in terms of weight.
+
+2️⃣ **Total Revenue (EUR)**
+
+Represents the total monetary value generated from candy sales in euros. It reflects the financial performance and market share of brands or manufacturers.
+
+---
